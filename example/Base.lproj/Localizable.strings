@@ -1,0 +1,4 @@
+/* No Localized Strings */
+
+"NOT_READY_TO_SUBMIT" = "Auth Data Not Fullfiled Security Rules";
+"INVALID_USER_ID" = "Server Response Contains Invalid Profile ID";

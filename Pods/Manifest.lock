@@ -1,0 +1,43 @@
+PODS:
+  - CDBKit (1.1.1)
+  - CDBPlacedUI (0.0.1)
+  - FeathersjsClientSwift (1.0.0):
+    - Socket.IO-Client-Swift (= 8.3.3)
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - INTULocationManager (4.2.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - Socket.IO-Client-Swift (8.3.3)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - CDBKit
+  - CDBPlacedUI (~> 0.0)
+  - FeathersjsClientSwift (from `~/repos/,github/FeathersjsClientSwift`)
+  - GoogleMaps
+  - INTULocationManager (~> 4.2)
+  - SDWebImage (~> 3.7)
+  - SVProgressHUD (~> 2.0)
+
+EXTERNAL SOURCES:
+  FeathersjsClientSwift:
+    :path: ~/repos/,github/FeathersjsClientSwift
+
+SPEC CHECKSUMS:
+  CDBKit: eb073c45d4bffbbad99dc9f2a79effbdab890ea7
+  CDBPlacedUI: b9b356fcb88036cf303c7970fee4ce5de44d5ca9
+  FeathersjsClientSwift: ce000972abea854329560c261820070d74c7b9f1
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  INTULocationManager: 73f8254b3d05c897c56bb13c190e5b7c648c0998
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  Socket.IO-Client-Swift: a2faffdbde89c63aebc5d631041530c1068b02b8
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: aa13c17b3b0bbf5a92206f2281747b223c1b8725
+
+COCOAPODS: 1.2.0

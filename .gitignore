@@ -1,0 +1,21 @@
+# branches selector
+#kitura/*
+#ios/*
+
+# OS X
+.DS_Store
+
+# Xcode
+xcuserdata
+.build/*
+.pbxuser
+xcuserdata
+xccheckout
+profile
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+
+# Bundler
+#.bundle
